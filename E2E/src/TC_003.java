@@ -1,7 +1,7 @@
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class TC_3 {
+public class TC_003 {
 	
 	
 @Test
